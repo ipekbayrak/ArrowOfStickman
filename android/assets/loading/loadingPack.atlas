@@ -1,0 +1,90 @@
+
+loadingPack.png
+size: 1024,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+loading
+  rotate: false
+  xy: 2, 326
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 1
+loading
+  rotate: false
+  xy: 2, 164
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 2
+loading
+  rotate: false
+  xy: 164, 326
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 3
+loading
+  rotate: false
+  xy: 2, 2
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 4
+loading
+  rotate: false
+  xy: 164, 164
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 5
+loading
+  rotate: false
+  xy: 326, 326
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 6
+loading
+  rotate: false
+  xy: 164, 2
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 7
+loading
+  rotate: false
+  xy: 326, 164
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 8
+loading
+  rotate: false
+  xy: 488, 326
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 9
+loading
+  rotate: false
+  xy: 326, 2
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 10
+loading
+  rotate: false
+  xy: 488, 164
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 11
+loading
+  rotate: false
+  xy: 650, 326
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: 12

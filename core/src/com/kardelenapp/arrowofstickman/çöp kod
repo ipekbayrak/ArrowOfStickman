@@ -1,0 +1,21 @@
+		for (Iterator<Ok> i = oklar.iterator(); i.hasNext();) {
+					Ok ok = i.next();
+					if (collisionDetection(contact, ok.body, stickmanClass2.stickman4)){
+						stickmanClass2.kill();
+					}
+				}
+
+
+
+
+
+		 menutimer = new Timer();
+		 menuTask = new Timer.Task() {
+			@Override
+			public void run() {
+				//tekrar içine düşmesini engellemek için...
+				gw.stickPlayer.alive = true;
+			}
+		};
+
+			menutimer.scheduleTask(menuTask,1.4f);
